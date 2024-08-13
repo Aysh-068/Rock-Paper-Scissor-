@@ -1,0 +1,1 @@
+This project is a simple implementation of the classic "Rock, Paper, Scissors" game. It is built using JavaScript, CSS, and HTML. The game allows users to play against the computer, showcasing basic front-end web development skills including DOM manipulation, styling, and user interaction handling.
